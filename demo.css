@@ -1,0 +1,25 @@
+body{
+	background-color: #808080;
+	background-image: url("images/5.jpeg");
+	}
+table {
+/*   border: 1px solid black; */
+  font-weight: bold;
+}
+h4{
+	font-size-adjust: 20px;
+}
+span{
+	color: red;
+}
+h1 {
+  font-size: 200%;
+  color: #ff0000;
+  font-style: italic;
+}
+#submit{
+	 font-size: 100%;
+  color: #ff0000;
+}
+
+
